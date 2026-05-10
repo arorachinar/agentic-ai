@@ -1,4 +1,4 @@
-# AGENTS.md — L45 Autonomous Research Agent
+# AGENTS.md — Autonomous Research Agent
 
 ## Architecture (matches diagram)
 ```
